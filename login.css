@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@300&family=Lobster&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@300&family=Gulzar&family=Lobster&family=Roboto&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+box-sizing: border-box;
+}
+body{
+    background: url("lg3.jpg")no-repeat center center fixed;
+    background-size:cover;
+
+
+}
+.container{
+    position:absolute;
+    top: 22.5%;
+    left: 15%;
+    backdrop-filter: blur(5px);
+box-shadow: 20px 25px 35px black;
+border-right: 2px solid rgba(255,255,255,0.2); 
+ border-bottom: 1px solid rgba(255,255,255,0.2);
+background: rgba(255,255,255,0.1);
+text-align: center;
+/* border: 1px solid lightgray; */
+/* width: 30%;
+height: 60%;
+padding:30px; */
+
+}
+/* .container h1{
+   /* font-size: 40px;
+ border-bottom:3px solid silver; 
+margin-bottom: 1px;
+/* padding: 3px 0; */
+ /* display: inline-block; */
+/* color: silver; 
+justify-content: center; */
+
+
+.box{
+    width: 95%;
+    border-bottom: 2px solid lightgray;
+    margin:20px 0px;
+    font-weight: bold;
+    /* border: 1px solid gainsboro; */
+    text-align: center;
+    margin-left: 2.5%;
+    
+}
+.box input{
+    background: lightcyan;
+    width: 75%;
+   
+    padding: 3px 12px;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 20px;
+}
+.btn{
+    cursor: pointer;
+    outline: none;
+
+    margin: 12px 0;
+    padding: 10px 21px;
+    border-radius: 20px;
+    border: 2px solid silver;
+font-size: 18px;
+background: none;
+color: white;
+
+}
+.box i{
+    width: 35px;
+    text-align: center;
+     padding: 10px 0;
+}
+.btn:hover{
+    color: black;
+    background-color: white;
+    opacity: 0.5;
+}
+.logo{
+    height: 45px;
+    width: 70px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.forgot{
+    margin-top:2px;
+    color: #fff;
+    text-decoration: none;
+    word-spacing: 4px;
+    /* font-family: 'Gulzar', serif; */
+}
+.forgot a{
+    color: #fff;
+    font-weight: 400;
+}
+/* #email{
+    font-family: 'Lobster', cursive;
+} */
+.forget{
+    margin-top: 6px;
+   
+    color: #fff;
+    text-decoration: none;
+    word-spacing: 1px;
+    margin-bottom: 15px;
+    /* font-family: 'Gulzar', serif; */
+    
+}
+.forget a{
+    color: #fff;
+    font-weight: 400;
+}
