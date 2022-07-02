@@ -114,3 +114,159 @@ color: white;
     color: #fff;
     font-weight: 400;
 }
+.btn-2{
+    cursor: pointer;
+    outline: none;
+
+    margin: 32px 10px;
+    padding: 10px 21px;
+    border-radius: 20px;
+    border: 2px solid silver;
+font-size: 18px;
+background: none;
+color: white;
+
+}
+.btn-2:hover{
+    color: black;
+    background-color: white;
+    opacity: 0.5;
+}
+.navbar ul{
+    float: right;
+    margin-right: 20px;
+}
+.navbar ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+padding: 7px 13px;
+border-radius: 3px;
+text-decoration: none;
+}
+.navbar ul li a {
+    color:whitesmoke;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+a.active,a.hover{
+background:none;
+transition: .5s;
+}
+.btn-3{
+   background: none;
+    border-radius: 30px;
+    cursor: pointer;
+    outline: none;
+padding: 10px;
+border: none;
+}
+.btn-3:hover{
+    color: black;
+    background-color: white;
+    opacity: 0.5;
+}
+.btn-2{
+    cursor: pointer;
+    outline: none;
+
+    margin: 32px 10px;
+    padding: 10px 21px;
+    border-radius: 20px;
+    border: 2px solid silver;
+font-size: 18px;
+background: none;
+color: white;
+
+}
+.btn-2:hover{
+    color: black;
+    background-color: white;
+    opacity: 0.5;
+}
+.navbar ul{
+    float: right;
+    margin-right: 20px;
+}
+.navbar ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+padding: 7px 13px;
+border-radius: 3px;
+text-decoration: none;
+}
+.navbar ul li a {
+    color:whitesmoke;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+a.active,a.hover{
+background:none;
+transition: .5s;
+}
+.btn-3{
+   background: none;
+    border-radius: 30px;
+    cursor: pointer;
+    outline: none;
+padding: 10px;
+border: none;
+}
+.btn-3:hover{
+    color: black;
+    background-color: white;
+    opacity: 0.5;
+}
+.btn-2{
+    cursor: pointer;
+    outline: none;
+
+    margin: 32px 10px;
+    padding: 10px 21px;
+    border-radius: 20px;
+    border: 2px solid silver;
+font-size: 18px;
+background: none;
+color: white;
+
+}
+.btn-2:hover{
+    color: black;
+    background-color: white;
+    opacity: 0.5;
+}
+.navbar ul{
+    float: right;
+    margin-right: 20px;
+}
+.navbar ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+padding: 7px 13px;
+border-radius: 3px;
+text-decoration: none;
+}
+.navbar ul li a {
+    color:whitesmoke;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+a.active,a.hover{
+background:none;
+transition: .5s;
+}
+.btn-3{
+   background: none;
+    border-radius: 30px;
+    cursor: pointer;
+    outline: none;
+padding: 10px;
+border: none;
+}
+.btn-3:hover{
+    color: black;
+    background-color: white;
+    opacity: 0.5;
+}
