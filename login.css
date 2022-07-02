@@ -23,9 +23,10 @@ background: rgba(255,255,255,0.1);
 text-align: center;
 /* border: 1px solid lightgray; */
 /* width: 30%;
-height: 60%;
-padding:30px; */
-
+height: 60%; */
+/* padding:30px; */
+/* height: 55%;
+width: 30%; */
 }
 /* .container h1{
    /* font-size: 40px;
@@ -54,21 +55,20 @@ justify-content: center; */
     padding: 3px 12px;
     border: none;
     outline: none;
-    color: white;
+    color: black;
     font-size: 20px;
 }
 .btn{
     cursor: pointer;
     outline: none;
-
-    margin: 12px 0;
-    padding: 10px 21px;
+    margin: 0px 50px;
+    padding: 7px 21px;
     border-radius: 20px;
     border: 2px solid silver;
 font-size: 18px;
 background: none;
 color: white;
-
+margin-left: 70px;
 }
 .box i{
     width: 35px;
@@ -90,12 +90,13 @@ color: white;
     margin-top:2px;
     color: #fff;
     text-decoration: none;
-    word-spacing: 4px;
+    word-spacing: 2px;
+    margin-left: 204px;
     /* font-family: 'Gulzar', serif; */
 }
 .forgot a{
     color: #fff;
-    font-weight: 400;
+    font-weight: 200;
 }
 /* #email{
     font-family: 'Lobster', cursive;
@@ -113,4 +114,56 @@ color: white;
 .forget a{
     color: #fff;
     font-weight: 400;
+}
+.btn-2{
+    cursor: pointer;
+    outline: none;
+
+    margin: 32px 10px;
+    padding: 10px 21px;
+    border-radius: 20px;
+    border: 2px solid silver;
+font-size: 18px;
+background: none;
+color: white;
+
+}
+.btn-2:hover{
+    color: black;
+    background-color: white;
+    opacity: 0.5;
+}
+.navbar ul{
+    float: right;
+    margin-right: 20px;
+}
+.navbar ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+padding: 7px 13px;
+border-radius: 3px;
+text-decoration: none;
+}
+.navbar ul li a {
+    color:whitesmoke;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+a.active,a.hover{
+background:none;
+transition: .5s;
+}
+.btn-3{
+   background: none;
+    border-radius: 30px;
+    cursor: pointer;
+    outline: none;
+padding: 10px;
+border: none;
+}
+.btn-3:hover{
+    color: black;
+    background-color: white;
+    opacity: 0.5;
 }
